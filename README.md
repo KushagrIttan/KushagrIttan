@@ -63,20 +63,14 @@
   <a href="mailto:kushagrpc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kushagr_ittan">
+  <a href="https://www.instagram.com/kushagrittan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KushagrIttan/KushagrIttan/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
 
 ## 😂 Me after fixing one bug and breaking everything else:
 
