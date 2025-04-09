@@ -1,55 +1,85 @@
-<h2 align="center">Hi there, I'm <strong>Kushagr Ittan</strong>! 👋</h2>
-
+<h1 align="center">Hey, I'm Kushagr Ittan 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F76E11&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Computer+Vision+%7C+Hackathons+%7C+Innovation;Pursuing+B.Tech+in+AI%26ML+at+USAR+(GGSIPU);Design+Coordinator+at+GDG-USAR;" alt="Typing SVG" />
+  🚀 AI/ML Engineer in the making | 🎨 Design Head @ GDG-USAR <br>
+  💡 Innovator | 🧠 Hackathoner | 🎮 AR/VR + Game Dev Enthusiast
 </p>
 
 ---
 
-### 🚀 About Me
-
-- **Pronouns:** He/Him  
-- **Education:** Pursuing B.Tech. in Artificial Intelligence & Machine Learning at University School of Automation and Robotics (GGSIPU)  
-- **Current Role:** Design Coordinator at [GDG-USAR](https://in.linkedin.com/company/gdgusar)  
-- **Hackathon Achievements:**
-  - **CodeZen Hackathon:** Developed 'Angel Eyes'—a smart wearable spectacle using computer vision to detect threats and alert authorities. Our team secured a spot in the Top 30. :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
-  - **VesHack 2024:** :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **Technical Skills:** Python, OpenOffice, SQL, C  
-- **Notable Achievements:**
-  - :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-  - :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-  - :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-  - :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Fun Fact:** :contentReference[oaicite:13]{index=13} :contentReference[oaicite:14]{index=14}&#8203;:contentReference[oaicite:15]{index=15}
-- **Reach me at:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/kushagr-ittan-2a5120204)
-  [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat-square)](mailto:kushagr.ittan@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/kushagr_ittan)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/channels/@me)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=AI+%7C+ML+%7C+Computer+Vision+%7C+Hackathons+%7C+AR%2FVR+%7C+3D+Dev;Designing+Futures+%F0%9F%9A%80+%7C+Coding+Visions+%F0%9F%92%BB+%7C+Always+Learning+%F0%9F%93%9A" align="center" />
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushagr-Ittan&show_icons=true&theme=radical&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagr-Ittan&layout=compact&langs_count=6&theme=radical&hide_border=false" height="160"/>
-</div>
+- 🎓 B.Tech in AI & ML @ USAR (GGSIPU)
+- 💻 Currently building: Smart Glasses | LLM-Powered Compliance Checker | AR Visual Tools
+- 🛠️ Skilled in: Python, TensorFlow, MySQL, C, Figma, Web, Game Dev, Jupyter
+- 🧑‍🎨 UI/UX + AR/VR + Frontend Dev + Posters + Reels (Design is 🔥)
+- 👨‍💼 Design Coordinator at [GDG-USAR](https://in.linkedin.com/company/gdgusar)
+- 🕵️ Fun Fact: My certificate typo named me *Kushangr* — now it’s my hacker alias 😎
 
 ---
 
-### 🐍 Contribution Snake
+## 🏆 Hackathon Highlights
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kushagr-Ittan/Kushagr-Ittan/output/snake.svg" alt="Snake animation" />
-</div>
+| 🏁 Hackathon         | 🧠 Project Name | 🥇 Result        |
+|---------------------|----------------|------------------|
+| 🚀 **Logithon 2025** @ IIT Bombay | Logiकल         | Finalist 🧠    |
+| 🔍 **CodeZen 2025** @ GTBIT       | Angel Eyes      | Top 30 🚨     |
+| 🌱 **VesHack 2024** @ USAR        | Emitless        | Top 30 ⚡     |
+| 📊 **Mathethon 2025** @ GTBIT     | Math Mirage      | 🧮 Puzzle King |
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KushagrIttan&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagrIttan&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushagr-ittan-2a5120204/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kushagrpc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kushagr_ittan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KushagrIttan/KushagrIttan/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 😂 Me after fixing one bug and breaking everything else:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="400"/>
+</p>
