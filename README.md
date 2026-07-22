@@ -17,8 +17,6 @@
 - 🛠️ Skilled in: Python, TensorFlow, MySQL, C, Figma, Web, Game Dev, Jupyter
 - 🧑‍🎨 UI/UX + AR/VR + Frontend Dev + Posters + Reels (Design is 🔥)
 - 👨‍💼 Design Coordinator at [GDG-USAR](https://in.linkedin.com/company/gdgusar)
-- 🕵️ Fun Fact: My certificate typo named me *Kushangr* — now it’s my hacker alias 😎
-
 ---
 
 ## 🏆 Hackathon Highlights
