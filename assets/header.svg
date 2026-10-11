@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Kushagr Ittan</title>
+  <desc id="desc">Applied AI, automation, and thoughtful interfaces. From model internals to everyday tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111416"/><stop offset="1" stop-color="#202624"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c5f66b" stroke-opacity=".06"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#c5f66b" stop-opacity=".14"/><stop offset="1" stop-color="#c5f66b" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="400" rx="24" fill="url(#grid)"/>
+  <ellipse cx="970" cy="190" rx="280" ry="220" fill="url(#glow)"/>
+  <rect x="56" y="48" width="5" height="24" rx="2" fill="#c5f66b"/>
+  <text x="76" y="65" fill="#c5f66b" font-family="monospace" font-size="14" letter-spacing="3">BUILD / LEARN / ITERATE</text>
+  <text x="52" y="163" fill="#f4f5ef" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">Kushagr Ittan<tspan fill="#c5f66b">.</tspan></text>
+  <text x="56" y="215" fill="#c4cbc4" font-family="Arial, Helvetica, sans-serif" font-size="24">Applied AI. Automation. Thoughtful interfaces.</text>
+  <text x="56" y="259" fill="#8d9a91" font-family="Arial, Helvetica, sans-serif" font-size="18">From model internals to everyday tools.</text>
+  <path d="M56 306H720" stroke="#39423b"/>
+  <text x="56" y="344" fill="#c5f66b" font-family="monospace" font-size="14" letter-spacing="2">DELHI, INDIA</text>
+  <text x="260" y="344" fill="#929e94" font-family="monospace" font-size="14" letter-spacing="1">AI &amp; ML / USAR / 2028</text>
+  <g fill="none" stroke="#c5f66b">
+    <rect x="855" y="85" width="236" height="236" rx="30" stroke-opacity=".14" transform="rotate(12 973 203)"/>
+    <rect x="871" y="101" width="204" height="204" rx="26" stroke-opacity=".25" transform="rotate(-8 973 203)"/>
+    <rect x="886" y="116" width="174" height="174" rx="22" stroke-opacity=".5"/>
+    <path d="M924 174l-28 28 28 28m98-56 28 28-28 28m-35-66-26 76" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1060" cy="116" r="6" fill="#c5f66b"/>
+  <text x="916" y="348" fill="#929e94" font-family="monospace" font-size="12" letter-spacing="3">ALWAYS CURIOUS</text>
+</svg>
